@@ -1,5 +1,3 @@
-![](https://pt.bloggif.com/tmp/50a5e6a6cfc4bd862c5e6d43f097a543/text.gif?1652652704)
-
 ## Me chamo Nicole Russo...
 ### Estou aqui para apresentar um pouco dos meus projetos pessoais e de estudo.
 
