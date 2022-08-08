@@ -16,7 +16,7 @@ const nicole_cris_russo = {
 
 ## Outras redes...
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)(https://vercel.com/nicole-cris-russo)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)(https://vercel.com/nicole-cris-russo)]
 
 
 
