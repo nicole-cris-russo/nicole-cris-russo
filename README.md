@@ -9,7 +9,7 @@ const nicole_cris_russo = {
 }
 ```
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](google.com) 
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JS](https://user-images.githubusercontent.com/92954564/149734759-95447c01-d50b-46ee-b203-bcf737a3deb6.png)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)<img src="https://i.pinimg.com/originals/53/5a/a7/535aa7b7909c6a6b4eb08c5c3ce310c8.gif" style="display:flex;width:30px;">
