@@ -14,6 +14,10 @@ const nicole_cris_russo = {
 [![JS](https://user-images.githubusercontent.com/92954564/149734759-95447c01-d50b-46ee-b203-bcf737a3deb6.png)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)<img src="https://i.pinimg.com/originals/53/5a/a7/535aa7b7909c6a6b4eb08c5c3ce310c8.gif" style="display:flex;width:30px;">
 
+## Outras redes...
+
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)(https://vercel.com/nicole-cris-russo)
+
 
 
 
