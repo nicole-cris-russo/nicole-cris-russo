@@ -4,7 +4,7 @@
 const nicole_cris_russo = {
     name: "Nicole",
     oldYear: 21,
-    skills: ["CSS", "HTML", "JavaScript", "React"],
+    skills: ["CSS", "HTML", "JavaScript", "ReactJS"],
     interest: ["Python"]
 }
 ```
