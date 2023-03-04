@@ -1,10 +1,7 @@
-<span>
 
 <h1>Oi! <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fb.png" width="35"> Sou Nicole Russo</h1>
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC8F8F&width=380&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!+%E2%99%A1;Aqui+armazeno+alguns+projetos...;Fique+a+vontade+para+explorar!ツ)](https://git.io/typing-svg)    
 
-</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DC8F8F&width=380&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!+%E2%99%A1;Aqui+armazeno+alguns+projetos...;Fique+a+vontade+para+explorar!ツ)](https://git.io/typing-svg)
 
 <h3>🛠️ Skills:</h3>
 
