@@ -34,7 +34,8 @@
 
 </div>
 
-<h3>Outras redes...</h3>
+
+<h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> Outras redes...</h3>
 
 [![Vercel](https://img.shields.io/badge/vercel-CE90C0?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
 [![LinkedIn](https://img.shields.io/badge/linkedin-82B1B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolerusso01/)
