@@ -1,6 +1,6 @@
 <h1>Oi! <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fb.png" width="35"> Sou Nicole Russo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=E0E0E0&width=380&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!;Aqui+armazeno+alguns+projetos...;Fique+a+vontade+para+explorar!+ツ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=adbac7&width=380&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!;Aqui+armazeno+alguns+projetos...;Fique+a+vontade+para+explorar!+ツ)](https://git.io/typing-svg)
 
 <h3>🛠️ Skills:</h3>
 
@@ -14,8 +14,8 @@
 <img src="https://img.shields.io/badge/CSS3-404040?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-606060?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-808080?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-A0A0A0?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-C0C0C0?style=for-the-badge&logo=node.js&logoColor=black">
+<img src="https://img.shields.io/badge/Python-A0A0A0?style=for-the-badge&logo=python&logoColor=grey">
+<img src="https://img.shields.io/badge/Node.js-C0C0C0?style=for-the-badge&logo=node.js&logoColor=grey">
 <img src="https://img.shields.io/badge/PostgreSQL-E0E0E0?style=for-the-badge&logo=postgresql&logoColor=grey">   
 
 </div>
