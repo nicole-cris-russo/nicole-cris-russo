@@ -1,14 +1,14 @@
-<h1>Oi! <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fb.png" width="35"> Sou Nicole Russo</h1>
+<h1>hi! <img src="https://www.emojiall.com/images/240/microsoft-teams/1f44b-1f3fb.png" width="35"> this is Nicole Russo</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=adbac7&width=380&lines=Bem+vindo+ao+meu+reposit%C3%B3rio!;Aqui+armazeno+alguns+projetos...;Fique+a+vontade+para+explorar!+ツ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=adbac7&width=380&lines=welcome+to+my+repository!;here+I+upload+some+projects...;feel+free+to+explore!+ツ)](https://git.io/typing-svg)
 
-<h3>🛠️ Skills:</h3>
+<h3>🛠️ skills:</h3>
 
 <div>
 
 <div>
         
-<h4>Linguagens:</h4>
+<h4>languages:</h4>
 
 <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-404040?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,7 +22,7 @@
 
 <div>
     
-<h4>Frameworks e Bibliotecas:</h4>
+<h4>frameworks and libraries:</h4>
 
 <img src="https://img.shields.io/badge/Django-202020?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/express.js-404040?style=for-the-badge&logo=express&logoColor=white">
@@ -34,7 +34,7 @@
 </div>
 
 
-<h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> Outras redes...</h3>
+<h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> other networks...</h3>
 
 [![Vercel](https://img.shields.io/badge/vercel-9933FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
 [![LinkedIn](https://img.shields.io/badge/linkedin-9933FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolerusso01/)
