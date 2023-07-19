@@ -36,8 +36,8 @@
 
 <h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> other networks...</h3>
 
-[![Vercel](https://img.shields.io/badge/vercel-9933FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
-[![LinkedIn](https://img.shields.io/badge/linkedin-9933FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolerusso01/)
+[![Vercel](https://img.shields.io/badge/vercel-cc0000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolerusso01/)
 
 <!--
 [![follows](https://img.shields.io/github/followers/nicole-cris-russo.svg?style=social&label=Follow&maxAge=2592000)](#)
