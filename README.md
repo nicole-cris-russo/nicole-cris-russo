@@ -4,36 +4,6 @@
 
 <h3>🛠️ skills:</h3>
 
-<div>
-
-<div>
-        
-<h4>languages:</h4>
-
-<img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-404040?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-606060?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-808080?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-A0A0A0?style=for-the-badge&logo=python&logoColor=grey">
-<img src="https://img.shields.io/badge/Node.js-C0C0C0?style=for-the-badge&logo=node.js&logoColor=grey">
-<img src="https://img.shields.io/badge/PostgreSQL-E0E0E0?style=for-the-badge&logo=postgresql&logoColor=grey">   
-
-</div>
-
-<div>
-    
-<h4>frameworks and libraries:</h4>
-
-<img src="https://img.shields.io/badge/Django-202020?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/express.js-404040?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/React-606060?style=for-the-badge&logo=react&logoColor=white" alt="reactjs">
-<img src="https://img.shields.io/badge/Tailwind_CSS-808080?style=for-the-badge&logo=tailwind-css&logoColor=white">
-
-</div>
-
-</div>
-
-
 <h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> other networks...</h3>
 
 [![Vercel](https://img.shields.io/badge/vercel-CE2828?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
