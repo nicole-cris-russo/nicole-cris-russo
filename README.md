@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=adbac7&width=380&lines=welcome+to+my+repository!;here+I+upload+some+projects...;feel+free+to+explore!+ツ)](https://git.io/typing-svg)
 
-<h3>🛠️ skills:</h3>
-
 <h3><img width="20" src="https://em-content.zobj.net/source/microsoft-teams/337/woman-raising-hand_1f64b-200d-2640-fe0f.png"> other networks...</h3>
 
 [![Vercel](https://img.shields.io/badge/vercel-CE2828?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nicole-cris-russo)
